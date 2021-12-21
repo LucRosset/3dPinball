@@ -5,7 +5,7 @@ A study project aimed at creating a scalable 3D pinball game in Unity.
 
 You can play the game in your browser at [my itch.io page](https://lurosset.itch.io/3d-pinball)!
 
-###Copyright (C) 2021 Luciano Menasce Rosset
+### Copyright (C) 2021 Luciano Menasce Rosset
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
